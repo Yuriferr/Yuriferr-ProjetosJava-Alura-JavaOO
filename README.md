@@ -26,5 +26,8 @@
 Eclipse -  https://www.eclipse.org
 
 ## Imagens dos projetos
-![Captura de tela 2023-03-13 161508](https://user-images.githubusercontent.com/104935046/224809505-191cf190-1335-4a0c-99dd-181d61024ce6.png)
-![Captura de tela 2023-03-13 161627](https://user-images.githubusercontent.com/104935046/224809593-02e986b6-c69f-4ae5-b13f-63bbd372d9a0.png)
+
+<div align="center">
+   <img width="49%"  src="https://user-images.githubusercontent.com/104935046/224809505-191cf190-1335-4a0c-99dd-181d61024ce6.png"/>
+   <img width="49%"  src="https://user-images.githubusercontent.com/104935046/224809593-02e986b6-c69f-4ae5-b13f-63bbd372d9a0.png"/>
+ </div>
